@@ -164,7 +164,3 @@ body {
 .proficieny input {
   width: 80%;
 }
-
-.proficieny input ::-ms-thumb {
-  color: red;
-}
