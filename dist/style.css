@@ -154,3 +154,17 @@ body {
   text-align: center;
   padding-top: 20px;
 }
+
+.proficieny {
+  padding-top: 10px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.proficieny input {
+  width: 80%;
+}
+
+.proficieny input ::-ms-thumb {
+  color: red;
+}
